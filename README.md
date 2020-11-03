@@ -7,12 +7,13 @@
 ## Analysis Results
 
 ###### Checkout Times for Users
-        https://github.com/Clarue2275/bikesharing/blob/master/NYC%20Bike%20Trips.png
+      
 ###### Checkout Times by Gender
 ###### Trips by the Weekend HR
 ###### Trips by Gender Weekday HR
 ###### Trips by Gender Weekday
 ###### August Peak Hours
 ###### Top Starting Locations
-
+      [link to dashboard](https://public.tableau.com/profile/cedric.larue#!/vizhome/CitibikesTrips/Story1)
+      [link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/cedric.larue#!/vizhome/CitibikesTrips/Story1")
   
